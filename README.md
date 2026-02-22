@@ -1,3 +1,4 @@
+![Banner de Aletse](banner.png)
 # ¡Hola! Soy Aletse Ceja 
 
 ### Math • Data • Engineering • Education
